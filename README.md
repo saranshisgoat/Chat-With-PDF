@@ -33,6 +33,8 @@ This Streamlit app allows users to chat with a PDF using Gemini, a conversationa
 
     Replace `your-api-key` with your actual Google API key.
 
+    You can get your api key [here](https://aistudio.google.com/app/apikey)
+
 ## Usage
 
 1. Run the Streamlit app:
