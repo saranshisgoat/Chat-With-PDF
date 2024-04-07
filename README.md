@@ -4,7 +4,7 @@ This Streamlit app allows users to chat with a PDF using Gemini, a conversationa
 
 ## Demo
 
-![Demo](demo.gif)
+![Demo](demo.png)
 
 ## Features
 
