@@ -13,19 +13,13 @@ This Streamlit app allows users to chat with a PDF using Gemini, a conversationa
 
 ## Installation
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yatin-kundra/chat-with-pdf.git
-    ```
-
-2. Install the required dependencies:
+1. Install the required dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Set up your Google API key by creating a `.env` file and adding the following line:
+2. Set up your Google API key by creating a `.env` file and adding the following line:
 
     ```bash
     GOOGLE_API_KEY=your-api-key
